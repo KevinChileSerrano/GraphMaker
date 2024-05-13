@@ -2,8 +2,6 @@
 package graphCreator;
 
 /*Kevin L. Lemus Serrano
- * CMSC315 Project 4
- * DUE date 5/7/24
  * Description:  The GraphVisulizer class created the GUI for the program
  * 
  */

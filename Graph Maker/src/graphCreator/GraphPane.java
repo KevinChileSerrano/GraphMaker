@@ -1,8 +1,6 @@
 package graphCreator;
 
 /*Kevin L. Lemus Serrano
- * CMSC315 Project 4
- * DUE date 5/7/24
  * Description:  The GraphVisualizer class is a JavaFX program for visualizing graphs. 
  * It allows users to create graphs, add vertices and edges, and perform searches to analyze graph properties like connectivity and cycles. 
  * It handles mouse clicks

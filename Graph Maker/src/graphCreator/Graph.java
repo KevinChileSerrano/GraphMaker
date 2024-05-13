@@ -1,8 +1,6 @@
 package graphCreator;
 
 /*Kevin L. Lemus Serrano
- * CMSC315 Project 4
- * DUE date 5/7/24
  * Description:  The graph class represent a graph.
  * the vertices field represents a list of the vertices and their names
  * the adjencencyList has a Vertex for the key and a List of vertices for the destination
